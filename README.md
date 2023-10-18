@@ -1,5 +1,5 @@
 <p align="center">  
-  <a href="https://youtu.be/wXbfwJVYQZY" target="blank"><img src="https://www.youtube.com/img/desktop/yt_1200.png" width="200" alt="Nest Logo" /></a>
+  <a href="https://youtu.be/wXbfwJVYQZY" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="200" alt="Nest Logo" /></a>
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
